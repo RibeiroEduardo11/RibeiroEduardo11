@@ -9,7 +9,7 @@ Buscando Trabalhar com Desenvolvimento e Ciência de Dados
 
 # Contato:
 <p>
-  <a href="instagram.com/eduardo.madke.ribeiro">
+  <a href="https://www.instagram.com/eduardo.madke.ribeiro/">
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Email Badge"/>
   </a>
    <a href="https://x.com/ribeir_o0">
